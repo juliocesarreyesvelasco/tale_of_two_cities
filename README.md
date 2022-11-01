@@ -32,3 +32,9 @@ Contributors names and contact info
 
 * 0.0
     * Prerelase
+    
+License
+This project is licensed under the Apache 2 License - see the LICENSE file for details.
+
+Acknowledgments
+Based on Billie Thompson's README template.
