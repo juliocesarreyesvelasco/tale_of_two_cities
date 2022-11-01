@@ -1,4 +1,4 @@
-# A tale of two cities: Floods and water outage in Mexico City
+# Consumption and collection of water in Mexico City
 Simple overview of use/purpose.
 
 
