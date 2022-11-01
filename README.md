@@ -1,1 +1,29 @@
-# tale_of_two_cities
+# A tale of two cities: Floods and water outage in Mexico City
+Simple overview of use/purpose.
+
+## What it is?
+
+A tool to generate insights about the water supply system and visualize data of it using IBM Cloud technology
+
+## What it does?
+
+Help pepole to be inform about the behaivor of water in Mexico City
+
+## Architecture
+
+![architecture of the proposed solution](Architecture.jpg)
+
+
+## Authors
+
+Contributors names and contact info
+
+[Alberto Ibarra](https://www.linkedin.com/in/albertoid/)
+[Julio César Reyes](www.linkedin.com/in/julio-césar-reyes-86841a1a8/)
+[Karim Cantón](https://www.linkedin.com/in/abdel-karim-cantón-71b0401aa/)
+[Samuel Faustinos](www.linkedin.com/in/samuelfaustinos/)
+
+## Version History
+
+* 0.0
+    * Prerelase
