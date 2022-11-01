@@ -11,8 +11,13 @@ This project join data from 2 different sources from goverment to analize and he
 
 ## Architecture
 
-
 ![EY_IBM_v1 (1)](https://user-images.githubusercontent.com/87026365/199156229-027b7a52-c4a7-4275-a1c9-3d139d51c2d7.jpg)
+
+
+
+## Roadmap
+
+![image](https://user-images.githubusercontent.com/87026365/199156539-ddd70464-b895-4b02-ab85-4bcec50d182c.png)
 
 
 
@@ -33,8 +38,8 @@ Contributors names and contact info
 * 0.0
     * Prerelase
     
-License
+## License
 This project is licensed under the Apache 2 License - see the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 Based on Billie Thompson's README template.
