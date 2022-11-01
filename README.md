@@ -1,13 +1,19 @@
 # A tale of two cities: Floods and water outage in Mexico City
 Simple overview of use/purpose.
 
+
+
 ## What it is?
 
 A tool to generate insights about the water supply system and visualize data of it using IBM Cloud technology.
 
+
+
 ## What it does?
 
 This project join data from 2 different sources from goverment to analize and help you to provide insights to the authorities or people interested about the consume and use of water in Mexico City.
+
+
 
 ## Architecture
 
@@ -17,7 +23,7 @@ This project join data from 2 different sources from goverment to analize and he
 
 ## Roadmap
 
-![image](https://user-images.githubusercontent.com/87026365/199156539-ddd70464-b895-4b02-ab85-4bcec50d182c.png)
+![image](https://user-images.githubusercontent.com/87026365/199158403-03f2f8dc-b8e9-4fe1-a5df-57d6bfefd81f.png)
 
 
 
@@ -33,13 +39,19 @@ Contributors names and contact info
 
 [Samuel Faustinos](www.linkedin.com/in/samuelfaustinos/)
 
+
+
 ## Version History
 
 * 0.0
     * Prerelase
     
+    
+    
 ## License
 This project is licensed under the Apache 2 License - see the LICENSE file for details.
+
+
 
 ## Acknowledgments
 Based on Billie Thompson's README template.
