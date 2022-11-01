@@ -12,7 +12,7 @@ This project join data from 2 different sources from goverment to analize and he
 ## Architecture
 
 
-![EY_IBM_v1](https://user-images.githubusercontent.com/87026365/199142891-e204f4b7-cc39-4612-8954-b9c737900186.jpg)
+![EY_IBM_v1 (1)](https://user-images.githubusercontent.com/87026365/199156229-027b7a52-c4a7-4275-a1c9-3d139d51c2d7.jpg)
 
 
 
