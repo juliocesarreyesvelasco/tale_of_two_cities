@@ -7,7 +7,7 @@ A tool to generate insights about the water supply system and visualize data of 
 
 ## What it does?
 
-Help pepole to be inform about the behaivor of water in Mexico City
+Help pepole to be inform and provide insights about the consume and use of water in Mexico City
 
 ## Architecture
 
