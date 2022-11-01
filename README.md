@@ -12,6 +12,8 @@ Help pepole to be inform about the behaivor of water in Mexico City
 ## Architecture
 
 ![architecture of the proposed solution](Architecture.jpg)
+![EY_IBM_v1](https://user-images.githubusercontent.com/87026365/199142891-e204f4b7-cc39-4612-8954-b9c737900186.jpg)
+
 
 
 ## Authors
